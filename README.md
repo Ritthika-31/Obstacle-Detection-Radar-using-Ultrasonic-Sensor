@@ -31,7 +31,7 @@ To design and develop a low-cost radar system that detects and displays the posi
 
 ## 5. Project Image
 
-"Obstacle Detection Radar" (RADAR.jpeg)
+![Obstacle Detection Radar](RADAR.jpeg)
 
 ## 6. Software Used
 
